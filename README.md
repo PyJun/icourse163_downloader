@@ -3,7 +3,7 @@
 
 【对于mooc上面已经关闭结束的课程，也可以下载到本地观看】
 
-工具获取地址：https://lanzouw.com/s/course-downloader
+工具获取地址：https://pyjun.lanzoup.com/s/course-downloader
 
 ## 安装教程
 从蓝奏云网盘下载最新版学无止下载器后，点击确认一路安装即可
